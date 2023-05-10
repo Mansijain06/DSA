@@ -10,3 +10,5 @@ while (n > 0) {
     n = Math.floor(n / 10);
 }
 console.log(res);
+
+//O(logn)
